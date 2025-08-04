@@ -16,3 +16,4 @@ A simple and responsive currency converter built using **HTML**, **Tailwind CSS*
 - Responsive UI using Tailwind CSS
 
 🌐 Live Demo
+ https://asimali-dev.github.io/currency-converter/
